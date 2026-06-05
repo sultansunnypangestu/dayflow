@@ -1,0 +1,6 @@
+{
+  "name": "Dayflow",
+  "description": "Plan your day by energy, not pressure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
